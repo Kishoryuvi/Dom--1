@@ -188,3 +188,5 @@ var h1 = document.querySelector('header h1');
 console.log(newDiv);
 
 container.insertBefore(newDiv, h1);
+
+//Done
